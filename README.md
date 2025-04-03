@@ -14,7 +14,7 @@ Other good forks of firefox :
 
 📦 Essential Extensions
 * [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Blocks ads, trackers, and malware domains.
-* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger/) - Automatically learns to block trackers.
+* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) - Automatically learns to block trackers.
 * [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) - Removes annoying cookie consent banners.
 * [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) - Emulates Content Delivery Networks (CDNs) locally to improve privacy.
 * [Fastforward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/) - Skips link shorteners and redirects.
