@@ -55,3 +55,11 @@ Use secure DNS providers like NextDNS or Mullvad DNS:
    - NextDNS: (https://nextdns.io/) For make your account.
    - Mullvad DNS: `base.dns.mullvad.net` (https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
    - Dns0.eu zero: `193.110.81.9` & Alternative `185.253.5.9` (https://www.dns0.eu/)
+
+🕵🏻 Search Engine Privacy
+Replace default search engines with privacy-focused alternatives like:
+* [Startpage](https://www.startpage.com/) - Startpage provides Google search results while protecting your personal data.
+* [DuckDuckGo](https://duckduckgo.com/) - DuckDuckGo is a search engine that does not track your searches or browsing history.
+
+💱 Migrating Browsers Without Losing Data Using Fox Recovery
+* [Fox Recovery](https://github.com/ZannaSkull/Fox-Recovery) - A program to change browsers without logging in a second time
