@@ -54,4 +54,4 @@ Use secure DNS providers like NextDNS or Mullvad DNS:
 3. Choose a custom provider and enter one of the following URLs:
    - NextDNS: (https://nextdns.io/) For make your account.
    - Mullvad DNS: `base.dns.mullvad.net` (https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
-   - dns0.eu zero: `193.110.81.9` & Alternative `185.253.5.9` (https://www.dns0.eu/)
+   - Dns0.eu zero: `193.110.81.9` & Alternative `185.253.5.9` (https://www.dns0.eu/)
