@@ -32,4 +32,4 @@ Other good extensions I can recommend
 * [Startpage Privacy Protection](https://addons.mozilla.org/en-US/firefox/addon/startpage-privacy-protection/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 * [Snowflake](https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 * [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-* 
+
