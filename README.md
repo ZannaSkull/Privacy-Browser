@@ -32,6 +32,7 @@ Other good forks of firefox :
 * [Startpage Privacy Protection](https://addons.mozilla.org/en-US/firefox/addon/startpage-privacy-protection/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Enhances privacy when using Startpage search engine.
 * [Snowflake](https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Helps users bypass censorship by acting as a proxy.
 * [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Spoofs browser data to prevent fingerprinting.
+* [Complexity](https://addons.mozilla.org/en-US/firefox/addon/complexity/) - Perplexity AI Supercharged
 
 # Recommended Settings for Waterfox / Zen Browser
 Enhance your privacy and security by following these steps:
